@@ -1,0 +1,3 @@
+server:
+  forward-headers-strategy: native
+debug: true
